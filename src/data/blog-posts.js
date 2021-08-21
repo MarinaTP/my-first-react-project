@@ -1,0 +1,22 @@
+export const blogPosts = [
+    {
+        title: 'Title 1',
+        body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at maximus nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque euismod lorem in feugiat malesuada. Donec vestibulum imperdiet arcu, vel consequat diam molestie quis. Cras consectetur purus nec risus condimentum, vel gravida ligula placerat. Maecenas porttitor semper sem, ut dictum justo maximus nec. Etiam in quam ac nunc placerat gravida. Maecenas dapibus tortor ac nibh efficitur volutpat. Duis gravida sed felis sit amet fringilla. Phasellus eu viverra arcu. Integer vel metus sit amet sem congue eleifend. Vivamus sit amet ante tincidunt, convallis nisi ac, tristique nisl. Aenean viverra nibh in tellus accumsan, id vulputate ex sagittis. Sed molestie laoreet venenatis. Suspendisse tristique egestas sem non rhoncus.'
+    },
+    {
+        title: 'Title 2',
+        body: 'Ut congue, velit ac venenatis placerat, felis justo euismod turpis, a sollicitudin libero sem ac magna. Nullam dignissim sed nisi at hendrerit. Nulla pulvinar eget lacus id vehicula. Duis tempor sem et ornare feugiat. Ut efficitur neque sapien, non molestie turpis efficitur a. Mauris luctus pulvinar eros, sit amet pellentesque urna venenatis sed. Fusce ac ex quis tellus vestibulum malesuada vel non mi. Vestibulum leo dui, euismod eu dolor a, commodo porttitor ex. Phasellus est tellus, tristique at tempor id, aliquam feugiat eros. Suspendisse non tempor neque. Vivamus consequat, nulla quis accumsan consectetur, ex urna vestibulum magna, pellentesque lobortis nulla dolor eu felis. Suspendisse dapibus elit ex, eu mollis nisl ultrices sit amet. Aliquam erat volutpat.'
+    },
+    {
+        title: 'Title 3',
+        body: 'Cras et aliquet odio. Aliquam non lorem fermentum, tempus metus non, suscipit turpis. Integer eget condimentum nisl. Curabitur porta, ante et hendrerit condimentum, diam felis laoreet diam, ut mattis enim dui vehicula purus. Vivamus commodo, dui ac dictum aliquet, metus diam posuere nulla, a condimentum nunc libero mattis tortor. Aenean dapibus, tellus et posuere rutrum, elit quam vulputate neque, sed venenatis magna tortor quis lorem. Etiam vitae dui ac nibh sagittis tristique. Maecenas condimentum, tortor nec tristique egestas, felis odio volutpat est, sit amet ornare velit ipsum ac orci. Morbi venenatis, mi vel vulputate tincidunt, nibh arcu commodo tellus, nec eleifend enim urna pretium metus. Maecenas id euismod metus, eget cursus mi. Nunc accumsan elementum maximus. Quisque mi turpis, cursus eu arcu nec, lacinia molestie nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec in ornare magna, faucibus venenatis risus.'
+    },
+    {
+        title: 'Title 4',
+        body: 'Integer sed dignissim ipsum. Aenean auctor in nibh quis pellentesque. In mollis elit eget porta faucibus. In blandit interdum ante vitae finibus. Aliquam non velit eu risus dignissim malesuada nec a elit. Suspendisse ex dui, dapibus eget ullamcorper eu, cursus sed odio. Donec fermentum enim ut elit venenatis tristique nec a augue. Morbi sit amet ipsum est. Quisque aliquam sollicitudin tortor eu pretium. Vivamus sed ipsum dignissim, dignissim mi ac, tempus lectus. Quisque varius tempus consectetur. Pellentesque vulputate, velit at posuere lobortis, dui mauris pretium risus, sodales pulvinar lorem sapien ac massa. Phasellus iaculis sodales urna, vel scelerisque arcu tristique non. Curabitur gravida sagittis volutpat.'
+    },
+    {
+        title: 'Title 5',
+        body: 'Integer tellus nisi, vulputate id ligula at, accumsan consectetur urna. Integer vitae accumsan risus, vel maximus felis. Integer pharetra mi quis odio ullamcorper tincidunt. Nam fringilla luctus lobortis. Ut gravida fermentum mollis. Sed sed commodo eros, tincidunt pretium leo. Ut euismod pretium sapien, in interdum felis dapibus ac. Cras at nisi massa. Proin gravida nec enim non eleifend. Aliquam vel dignissim lectus, non rutrum nisi. Ut orci mi, varius dapibus enim ut, scelerisque bibendum nisl. Morbi varius, eros vitae posuere eleifend, massa arcu vestibulum dui, at fringilla nisi est in velit. Fusce suscipit turpis vitae blandit viverra. Quisque at lorem tincidunt, pulvinar eros vehicula, ullamcorper nibh. Nam sed nisl rhoncus, convallis orci ac, viverra magna.'
+    }
+]

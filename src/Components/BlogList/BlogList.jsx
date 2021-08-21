@@ -16,6 +16,7 @@ export class BlogList extends Component {
             count: 0,
         }
 
+    
 
         this.onCountClick = this.onCountClick.bind(this);
     }
